@@ -2156,7 +2156,7 @@ textarea.w-select {
 }
 
 body {
-    color: #09ff00;
+    color: red;
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     font-size: 14px;
     line-height: 20px;
@@ -2172,7 +2172,7 @@ h2 {
 }
 
 a {
-    color: #00ff00;
+    color: red;
     font-weight: 300;
         font-size: 32px;
     text-decoration: none;
@@ -2243,7 +2243,7 @@ a {
     font-family: VT323, sans-serif;
     font-size: 1.8rem;
     line-height: 3rem;
-    color: #00ff00;
+    color: red;
     font-weight: 300;
  
 }
